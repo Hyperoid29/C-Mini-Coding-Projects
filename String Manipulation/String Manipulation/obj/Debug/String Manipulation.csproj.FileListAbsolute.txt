@@ -1,0 +1,7 @@
+C:\Users\Hyperoid1104\source\repos\String Manipulation\String Manipulation\bin\Debug\String Manipulation.exe.config
+C:\Users\Hyperoid1104\source\repos\String Manipulation\String Manipulation\bin\Debug\String Manipulation.exe
+C:\Users\Hyperoid1104\source\repos\String Manipulation\String Manipulation\bin\Debug\String Manipulation.pdb
+C:\Users\Hyperoid1104\source\repos\String Manipulation\String Manipulation\obj\Debug\String Manipulation.csprojAssemblyReference.cache
+C:\Users\Hyperoid1104\source\repos\String Manipulation\String Manipulation\obj\Debug\String Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\Hyperoid1104\source\repos\String Manipulation\String Manipulation\obj\Debug\String Manipulation.exe
+C:\Users\Hyperoid1104\source\repos\String Manipulation\String Manipulation\obj\Debug\String Manipulation.pdb

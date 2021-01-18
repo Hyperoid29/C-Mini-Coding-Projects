@@ -1,0 +1,7 @@
+C:\Users\Hyperoid1104\source\repos\Athelete Array\Athelete Array\bin\Debug\Athelete Array.exe.config
+C:\Users\Hyperoid1104\source\repos\Athelete Array\Athelete Array\bin\Debug\Athelete Array.exe
+C:\Users\Hyperoid1104\source\repos\Athelete Array\Athelete Array\bin\Debug\Athelete Array.pdb
+C:\Users\Hyperoid1104\source\repos\Athelete Array\Athelete Array\obj\Debug\Athelete Array.csprojAssemblyReference.cache
+C:\Users\Hyperoid1104\source\repos\Athelete Array\Athelete Array\obj\Debug\Athelete Array.csproj.CoreCompileInputs.cache
+C:\Users\Hyperoid1104\source\repos\Athelete Array\Athelete Array\obj\Debug\Athelete Array.exe
+C:\Users\Hyperoid1104\source\repos\Athelete Array\Athelete Array\obj\Debug\Athelete Array.pdb

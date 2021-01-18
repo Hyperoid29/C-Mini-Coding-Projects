@@ -1,0 +1,7 @@
+C:\Users\Hyperoid1104\source\repos\Planet Range Finder\Planet Range Finder\bin\Debug\Planet Range Finder.exe.config
+C:\Users\Hyperoid1104\source\repos\Planet Range Finder\Planet Range Finder\bin\Debug\Planet Range Finder.exe
+C:\Users\Hyperoid1104\source\repos\Planet Range Finder\Planet Range Finder\bin\Debug\Planet Range Finder.pdb
+C:\Users\Hyperoid1104\source\repos\Planet Range Finder\Planet Range Finder\obj\Debug\Planet Range Finder.csprojAssemblyReference.cache
+C:\Users\Hyperoid1104\source\repos\Planet Range Finder\Planet Range Finder\obj\Debug\Planet Range Finder.csproj.CoreCompileInputs.cache
+C:\Users\Hyperoid1104\source\repos\Planet Range Finder\Planet Range Finder\obj\Debug\Planet Range Finder.exe
+C:\Users\Hyperoid1104\source\repos\Planet Range Finder\Planet Range Finder\obj\Debug\Planet Range Finder.pdb

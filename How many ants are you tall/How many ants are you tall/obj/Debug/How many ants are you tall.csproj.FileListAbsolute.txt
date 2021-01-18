@@ -1,0 +1,7 @@
+C:\Users\Hyperoid1104\source\repos\How many ants are you tall\How many ants are you tall\bin\Debug\How many ants are you tall.exe.config
+C:\Users\Hyperoid1104\source\repos\How many ants are you tall\How many ants are you tall\bin\Debug\How many ants are you tall.exe
+C:\Users\Hyperoid1104\source\repos\How many ants are you tall\How many ants are you tall\bin\Debug\How many ants are you tall.pdb
+C:\Users\Hyperoid1104\source\repos\How many ants are you tall\How many ants are you tall\obj\Debug\How many ants are you tall.csprojAssemblyReference.cache
+C:\Users\Hyperoid1104\source\repos\How many ants are you tall\How many ants are you tall\obj\Debug\How many ants are you tall.csproj.CoreCompileInputs.cache
+C:\Users\Hyperoid1104\source\repos\How many ants are you tall\How many ants are you tall\obj\Debug\How many ants are you tall.exe
+C:\Users\Hyperoid1104\source\repos\How many ants are you tall\How many ants are you tall\obj\Debug\How many ants are you tall.pdb

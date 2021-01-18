@@ -1,0 +1,7 @@
+C:\Users\Hyperoid1104\source\repos\Earning fora week, month or year\Earning fora week, month or year\bin\Debug\Earning fora week, month or year.exe.config
+C:\Users\Hyperoid1104\source\repos\Earning fora week, month or year\Earning fora week, month or year\bin\Debug\Earning fora week, month or year.exe
+C:\Users\Hyperoid1104\source\repos\Earning fora week, month or year\Earning fora week, month or year\bin\Debug\Earning fora week, month or year.pdb
+C:\Users\Hyperoid1104\source\repos\Earning fora week, month or year\Earning fora week, month or year\obj\Debug\Earning fora week, month or year.csprojAssemblyReference.cache
+C:\Users\Hyperoid1104\source\repos\Earning fora week, month or year\Earning fora week, month or year\obj\Debug\Earning fora week, month or year.csproj.CoreCompileInputs.cache
+C:\Users\Hyperoid1104\source\repos\Earning fora week, month or year\Earning fora week, month or year\obj\Debug\Earning fora week, month or year.exe
+C:\Users\Hyperoid1104\source\repos\Earning fora week, month or year\Earning fora week, month or year\obj\Debug\Earning fora week, month or year.pdb

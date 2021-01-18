@@ -1,0 +1,7 @@
+C:\Users\Hyperoid1104\source\repos\Login Program\Login Program\bin\Debug\Login Program.exe.config
+C:\Users\Hyperoid1104\source\repos\Login Program\Login Program\bin\Debug\Login Program.exe
+C:\Users\Hyperoid1104\source\repos\Login Program\Login Program\bin\Debug\Login Program.pdb
+C:\Users\Hyperoid1104\source\repos\Login Program\Login Program\obj\Debug\Login Program.csprojAssemblyReference.cache
+C:\Users\Hyperoid1104\source\repos\Login Program\Login Program\obj\Debug\Login Program.csproj.CoreCompileInputs.cache
+C:\Users\Hyperoid1104\source\repos\Login Program\Login Program\obj\Debug\Login Program.exe
+C:\Users\Hyperoid1104\source\repos\Login Program\Login Program\obj\Debug\Login Program.pdb

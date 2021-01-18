@@ -1,0 +1,7 @@
+C:\Users\Hyperoid1104\source\repos\Questionaire\Questionaire\bin\Debug\Questionaire.exe.config
+C:\Users\Hyperoid1104\source\repos\Questionaire\Questionaire\bin\Debug\Questionaire.exe
+C:\Users\Hyperoid1104\source\repos\Questionaire\Questionaire\bin\Debug\Questionaire.pdb
+C:\Users\Hyperoid1104\source\repos\Questionaire\Questionaire\obj\Debug\Questionaire.csproj.CoreCompileInputs.cache
+C:\Users\Hyperoid1104\source\repos\Questionaire\Questionaire\obj\Debug\Questionaire.exe
+C:\Users\Hyperoid1104\source\repos\Questionaire\Questionaire\obj\Debug\Questionaire.pdb
+C:\Users\Hyperoid1104\source\repos\Questionaire\Questionaire\obj\Debug\Questionaire.csprojAssemblyReference.cache

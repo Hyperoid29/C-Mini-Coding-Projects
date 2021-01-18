@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easter Mock 2019", "Easter Mock 2019\Easter Mock 2019.csproj", "{9C34CF7D-4384-4255-85E5-E60E673C20DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C34CF7D-4384-4255-85E5-E60E673C20DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C34CF7D-4384-4255-85E5-E60E673C20DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C34CF7D-4384-4255-85E5-E60E673C20DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C34CF7D-4384-4255-85E5-E60E673C20DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18604965-29D1-42D2-84FA-73C9EA76783C}
+	EndGlobalSection
+EndGlobal

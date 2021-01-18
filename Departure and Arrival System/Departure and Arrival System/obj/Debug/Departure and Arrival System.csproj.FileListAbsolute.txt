@@ -1,0 +1,7 @@
+C:\Users\Hyperoid1104\source\repos\Departure and Arrival System\Departure and Arrival System\bin\Debug\Departure and Arrival System.exe.config
+C:\Users\Hyperoid1104\source\repos\Departure and Arrival System\Departure and Arrival System\bin\Debug\Departure and Arrival System.exe
+C:\Users\Hyperoid1104\source\repos\Departure and Arrival System\Departure and Arrival System\bin\Debug\Departure and Arrival System.pdb
+C:\Users\Hyperoid1104\source\repos\Departure and Arrival System\Departure and Arrival System\obj\Debug\Departure and Arrival System.csprojAssemblyReference.cache
+C:\Users\Hyperoid1104\source\repos\Departure and Arrival System\Departure and Arrival System\obj\Debug\Departure and Arrival System.csproj.CoreCompileInputs.cache
+C:\Users\Hyperoid1104\source\repos\Departure and Arrival System\Departure and Arrival System\obj\Debug\Departure and Arrival System.exe
+C:\Users\Hyperoid1104\source\repos\Departure and Arrival System\Departure and Arrival System\obj\Debug\Departure and Arrival System.pdb

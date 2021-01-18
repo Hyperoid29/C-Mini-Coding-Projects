@@ -1,0 +1,7 @@
+C:\Users\Hyperoid1104\source\repos\Easter Mock 2019\Easter Mock 2019\bin\Debug\Easter Mock 2019.exe.config
+C:\Users\Hyperoid1104\source\repos\Easter Mock 2019\Easter Mock 2019\bin\Debug\Easter Mock 2019.exe
+C:\Users\Hyperoid1104\source\repos\Easter Mock 2019\Easter Mock 2019\bin\Debug\Easter Mock 2019.pdb
+C:\Users\Hyperoid1104\source\repos\Easter Mock 2019\Easter Mock 2019\obj\Debug\Easter Mock 2019.csprojAssemblyReference.cache
+C:\Users\Hyperoid1104\source\repos\Easter Mock 2019\Easter Mock 2019\obj\Debug\Easter Mock 2019.csproj.CoreCompileInputs.cache
+C:\Users\Hyperoid1104\source\repos\Easter Mock 2019\Easter Mock 2019\obj\Debug\Easter Mock 2019.exe
+C:\Users\Hyperoid1104\source\repos\Easter Mock 2019\Easter Mock 2019\obj\Debug\Easter Mock 2019.pdb
